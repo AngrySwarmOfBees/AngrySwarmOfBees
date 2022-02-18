@@ -15,7 +15,10 @@ Languages im learning are
   - C+ / C++
 
 Game engines i am "proficent" in:
-  -Unreal Engine
+  - Unreal Engine
+
+Other Information:
+  - I am currently in the process of getting my CompTIA A+ certification
   
 
 <!---
