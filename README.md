@@ -7,6 +7,16 @@ My fields of interest are:
   - Software Development
   - Python
 
+My Known programming languages are:
+  - python
+  - html
+
+Languages im learning are
+  - C+ / C++
+
+Game engines i am "proficent" in:
+  -Unreal Engine
+  
 
 <!---
 AngrySwarmOfBees/AngrySwarmOfBees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
