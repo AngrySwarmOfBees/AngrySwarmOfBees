@@ -6,6 +6,7 @@ My fields of interest are:
   - 3d Animation
   - Software Development
   - Python
+  - C++
 
 My Known programming languages are:
   - python
